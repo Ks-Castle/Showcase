@@ -42,7 +42,7 @@ https://cartoon-alarm.vercel.app/ | 김준호 | Python Next(TS) Node(JS) | 2023-
 # 병원 예약 시스템 (2023-01-23 ~ 2023-02-12)
  Link | 작업자 | 스킬 | 배포 |
  ----------- | --- | --- | --- | 
-manage-appt-client.vercel.app | 김준호, 서아름 | Next(TS) Node(TS) | 2023-02-05 |
+https://manage-appt-client.vercel.app | 김준호, 서아름 | Next(TS) Node(TS) | 2023-02-05 |
 
 - 주요기능 ```로그인/회원가입``` ```예약(달력사용)```
 - Flow: 환자가 로그인 해서 가고싶은 병원 부서를 정해 의사에게 날짜 예약을 하는 웹입니다.
